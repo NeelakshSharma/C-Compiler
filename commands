@@ -1,0 +1,4 @@
+flex A2.l
+bison A2.y
+gcc A2.tab.c -ll -ly
+./a.out test1.c
